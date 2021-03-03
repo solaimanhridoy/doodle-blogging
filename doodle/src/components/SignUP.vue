@@ -1,9 +1,15 @@
 <template>
-  <div>
+  <div class="signup">
+    <main>
+      <slot></slot>
+    </main>
+    <sidebar>
+      <slot name="sidebar"></slot>
+    </sidebar>
     <b-container>
       <b-row class="justify-content-md-center mt-4">
         <b-card
-          header="Signup"
+          header="Create New Account"
           header-bg-variant="primary"
           header-text-variant="white"
         >
