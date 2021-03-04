@@ -2,6 +2,8 @@
 
 `A Blog app using vuex, vue2`
 
+Enter to the `doodle` directory.
+
 ## Project setup
 
 ```
