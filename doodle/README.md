@@ -1,24 +1,5 @@
-# doodle
+# vue-vuex-registration-login-example
 
-## Project setup
-```
-npm install
-```
+Vue + Vuex - User Registration and Login Tutorial & Example
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+To see a demo and further details go to http://jasonwatmore.com/post/2018/07/14/vue-vuex-user-registration-and-login-tutorial-example
